@@ -14,7 +14,7 @@
 
 ### 🛠 Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git" />
+  <img src="[https://skillicons.dev/icons?i=html,css,js,react,nextjs,git](https://skillicons.dev/icons?i=html,css,js,nextjs,git,supabase)" />
 </p>
 
 ---
