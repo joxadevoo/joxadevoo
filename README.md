@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 🎯 Currently building products with AI support
-- 💻 Basic Frontend skills (HTML, CSS, JS)
+- 💻 Basic Frontend skills (HTML, CSS, JS, litte Vue.js)
 - 🧠 Learning by building real-world projects
 - ⚡ Focused on growth & consistency
 - 📍 Uzbekistan
@@ -22,7 +22,6 @@
 ### 🔥 What I'm Building
 - 🧩 **Mentora** – AI-powered test generation platform  
   👉 Live: https://mentoraa.uz  
-  👉 Repo: https://github.com/yourusername/mentora
 
 - 🤖 Telegram tools & automation bots  
 - 🧠 Productivity systems
